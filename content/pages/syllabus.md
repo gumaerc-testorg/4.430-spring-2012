@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4dc9e1b6-83b1-1a46-0d98-9a4aa3eb40d8
 ---
@@ -28,12 +30,12 @@ At the end of this course students will be able to:
 Prerequisites
 -------------
 
-An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004/pages/index.htm)), and a working knowledge of [Rhinoceros®](http://www.rhino3d.com/) are required for this course.
+An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004/pages/index.htm)), and a working knowledge of [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/) are required for this course.
 
 Required Materials and Resources
 --------------------------------
 
-The simulation environment used throughout the course will be a Rhino® plug‐in for daylighting and energy simulations and analysis called [DIVA‐for‐Rhino](http://diva4rhino.com/), which runs on PCs. It is based on [Radiance](http://www.radiance-online.org/), DAYSIM, and [EnergyPlus](https://energyplus.net/). Students will need a copy of Rhino® V4.0 SR8 or higher to use the plug‐in on their computers.
+The simulation environment used throughout the course will be a Rhino{{< sup "®" >}} plug‐in for daylighting and energy simulations and analysis called [DIVA‐for‐Rhino](http://diva4rhino.com/), which runs on PCs. It is based on [Radiance](http://www.radiance-online.org/), DAYSIM, and [EnergyPlus](https://energyplus.net/). Students will need a copy of Rhino{{< sup "®" >}} V4.0 SR8 or higher to use the plug‐in on their computers.
 
 DIVA-for-Rhino is available with a license through [Solemma LLC](https://www.solemma.com/). A [user guide](http://www.pratt.digitalfutures.info/wp-content/uploads/2014/04/DIVA-User-Guide.pdf) for DIVA-for-Rhino is a recommended resource for those who are just familiarizing themselves with the software.
 
