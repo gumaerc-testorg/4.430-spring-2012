@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 82ff6112-6d85-6050-554d-9138fda1e834
 resourcetype: Document
 title: 'Lecture 4 Tutorial: High Dynamic Range Imaging & Glare Analysis'
 uid: 3adc2cf1-488f-b6e7-2e8a-538c5f9b0c57

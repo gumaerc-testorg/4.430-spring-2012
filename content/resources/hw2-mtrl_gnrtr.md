@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2bb7d433-6a82-e1b3-3d4e-610ace951b4f
 resourcetype: Other
 title: hw2-mtrl_gnrtr.xlsx
 uid: f1d84105-cd65-9cc8-d73f-a058925aeb63

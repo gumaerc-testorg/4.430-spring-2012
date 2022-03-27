@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2bb7d433-6a82-e1b3-3d4e-610ace951b4f
 resourcetype: Other
 title: hw2-hdr_samples.zip
 uid: c7f5ac1a-76a4-298c-f0eb-db07aacc2407
