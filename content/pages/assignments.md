@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section includes the assignments and helpful resources for completing
+  the relevant assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 2bb7d433-6a82-e1b3-3d4e-610ace951b4f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following are the homework assignments for the course, along with supplementary materials.
@@ -27,7 +33,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Essay on Daylighting (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw1)
+{{% resource_link 29f49fa3-1f60-a61b-ec6b-bffcbe0c178f "Essay on Daylighting (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,11 +44,11 @@ TOPICS
 {{< tdopen >}}
 
 
-[Daylit Area Study (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw2)
+{{% resource_link 7802fcff-4f51-945e-d967-1c63aae1dbc6 "Daylit Area Study (PDF)" %}}
 
-[Sample Photographs (ZIP - 4.0MB)]({{< baseurl >}}/resources/hw2-hdr_samples)
+{{% resource_link c7f5ac1a-76a4-298c-f0eb-db07aacc2407 "Sample Photographs (ZIP - 4.0MB)" %}}
 
-[Radiance Material Generator (XLS)]({{< baseurl >}}/resources/hw2-mtrl_gnrtr)
+{{% resource_link f1d84105-cd65-9cc8-d73f-a058925aeb63 "Radiance Material Generator (XLS)" %}}
 
 
 {{< tdclose >}}
@@ -55,9 +61,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Physically Based Rendering (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw3)
+{{% resource_link bd8a03c8-b826-68e7-260f-3c5df1058bcd "Physically Based Rendering (PDF)" %}}
 
-[Sample Table 3.1 (XLS)]({{< baseurl >}}/resources/hw3-table3-1)
+{{% resource_link ca2f77b6-7928-3a3e-d652-9dbc1cd6eb75 "Sample Table 3.1 (XLS)" %}}
 
 
 {{< tdclose >}}
@@ -68,7 +74,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Simulation Studies (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw4)
+{{% resource_link ff18dc16-b2bb-3f7f-f958-760df76badd8 "Simulation Studies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +83,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Heliodon Measurements (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw5)
+{{% resource_link b97d1743-143a-9ee1-2b55-297792a4aec0 "Heliodon Measurements (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,9 +94,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Daylight Availability Metrics and Glare Analysis (PDF)]({{< baseurl >}}/resources/mit4_430s12_hw6)
+{{% resource_link 88f902ba-8578-d546-853f-ad2fca5670d5 "Daylight Availability Metrics and Glare Analysis (PDF)" %}}
 
-[Sample Table 6.1 (XLS)]({{< baseurl >}}/resources/hw6-table6-1)
+{{% resource_link 0aa75038-9ce6-7f76-99cf-5f7c724632ff "Sample Table 6.1 (XLS)" %}}
 
 
 {{< tdclose >}}

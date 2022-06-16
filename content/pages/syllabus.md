@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, learning objectives, prerequisites, required materials and resources,
+  assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 4dc9e1b6-83b1-1a46-0d98-9a4aa3eb40d8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -30,7 +37,7 @@ At the end of this course students will be able to:
 Prerequisites
 -------------
 
-An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004/pages/index.htm)), and a working knowledge of [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/) are required for this course.
+An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004)), and a working knowledge of [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/) are required for this course.
 
 Required Materials and Resources
 --------------------------------
