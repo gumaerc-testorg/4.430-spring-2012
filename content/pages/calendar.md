@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of  lecture topics, tutorials,
+  and homework assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8ad68169-ba37-c001-3bd4-52841ef6be8a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture sessions (L), and student presentation and practicum sessions (P).
