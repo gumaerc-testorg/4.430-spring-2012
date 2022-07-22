@@ -6,6 +6,7 @@ file: /courses/4-430-daylighting-spring-2012/0aa750389ce67f7699cf5f7c724632ff_hw
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file contain infor mation regarding sample table 6.1.
-

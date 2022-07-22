@@ -6,6 +6,7 @@ file: /courses/4-430-daylighting-spring-2012/3adc2cf1488fb6e72e8a538c5f9b0c57_MI
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding tutorial: high dynamic range imaging & glare analysis.
-
