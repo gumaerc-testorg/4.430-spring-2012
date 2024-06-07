@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a zip file contains: 7 jpg files.'
 file: /courses/4-430-daylighting-spring-2012/c7f5ac1a76a4298cf0ebdb07aacc2407_hw2-hdr_samples.zip
+file_size: 4177213
 file_type: application/zip
 learning_resource_types:
 - Assignments
