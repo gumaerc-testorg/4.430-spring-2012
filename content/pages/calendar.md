@@ -311,7 +311,7 @@ Daylighting in Practice
 P8
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip: {{% resource_link "25cc5745-bd05-469a-8c37-2567fede7650" "Philips Lighting" %}} in Burlington, MA
+Field Trip: [Philips Lighting](http://www.usa.lighting.philips.com/) in Burlington, MA
 {{< tdclose >}}
 {{< tdopen >}}
  

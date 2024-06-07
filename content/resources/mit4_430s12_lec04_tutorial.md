@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding tutorial: high dynamic range
   imaging & glare analysis.'
 file: /courses/4-430-daylighting-spring-2012/3adc2cf1488fb6e72e8a538c5f9b0c57_MIT4_430S12_lec04_tutorial.pdf
+file_size: 2252390
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
