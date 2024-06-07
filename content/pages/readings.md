@@ -17,7 +17,7 @@ video_metadata:
 
 Other recommended readings and references for this course include:
 
-Larson, Greg W., and Rob A. Shakespeare. {{% resource_link "a4d1382d-e5f5-44f8-9b35-6232a6aae861" "_Rendering with Radiance:The Art and Science of Lighting Visualization_" %}}. Booksurge LLC, 2004. ISBN: 9780974538105.
+Larson, Greg W., and Rob A. Shakespeare. [_Rendering with Radiance:The Art and Science of Lighting Visualization_](http://radsite.lbl.gov/radiance/book/index.html). Booksurge LLC, 2004. ISBN: 9780974538105.
 
 Lam, W. _Sunlighting as Formgiver for Architecture_. Van Rostrand Reinhold Company, 1986. ISBN: 9780442259419.
 
@@ -25,9 +25,9 @@ Rea, M., ed. _The Lighting Handbook_. 9th ed. Illuminating Engineering Society o
 
 Guzowski, M. _Daylighting for Sustainable Design_. McGrawHill, 1999. ISBN: 9780070254398.
 
-{{% resource_link "4511a3b3-7623-4bcd-b70f-9e8050d00bd9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heschong, L. {{% resource_link "4511a3b3-7623-4bcd-b70f-9e8050d00bd9" "_Thermal Delight in Architecture_" %}}. MIT Press, 1979. ISBN: 9780262580397. \[Preview with {{% resource_link "d7ca852d-9a44-4a23-b180-4be507621ad4" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262580397) Heschong, L. [_Thermal Delight in Architecture_](https://mitpress.mit.edu/9780262580397). MIT Press, 1979. ISBN: 9780262580397. \[Preview with [Google Books](http://books.google.com/books?id=2m7E3E-G-VwC&printsec=frontcover)\]
 
-O'Connor, Jennifer, Eleanor Lee, Francis Rubinstein, et al. {{% resource_link "4ecc5913-baa7-4137-865b-718aefa4051a" "_Tips for Daylighting with Windows_" %}}. Ernest Orlando Lawrence Berkeley National Laboratory, 1997.
+O'Connor, Jennifer, Eleanor Lee, Francis Rubinstein, et al. [_Tips for Daylighting with Windows_](https://facades.lbl.gov/sites/default/files/tips-for-daylighting-1997.pdf). Ernest Orlando Lawrence Berkeley National Laboratory, 1997.
 
 Tanizaki, J. _In Praise of Shadows_. Leete's Island Books, 1977. ISBN: 9780918172020.
 
@@ -99,7 +99,7 @@ Photometry and HDR Workshop
 {{< tdopen >}}
 
 
-Inanici, M. "{{% resource_link "a3fb78e6-5cd2-4614-9350-75fc4c70336f" "Introduction to High Dynamic Range Photography (PDF - 84.1MB)" %}}." Radiance Workshop Slides, 2009.
+Inanici, M. "[Introduction to High Dynamic Range Photography (PDF - 84.1MB)](http://www.radiance-online.org/community/workshops/2009-boston-ma/Presentations/inanici_HDR-2009.pdf)." Radiance Workshop Slides, 2009.
 
 ———. "[Evaluation of High Dynamic Range Photography as a Luminance Data Acquisition System](http://dx.doi.org/ 10.1191/1365782806li164oa)." _Lighting Research and Technology_ 38, no. 2 (2006): 123–34.
 
@@ -173,7 +173,7 @@ Daylight Simulations
 
 Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 235–53. ISBN: 9780415474146.
 
-Building Technologies Department of Lawrence Berkeley Laboratory. "{{% resource_link "9c739ed6-8677-436f-ac75-a3c54edc31fb" "_Radiance Reference Manual_ (PDF)" %}}." 2011.
+Building Technologies Department of Lawrence Berkeley Laboratory. "[_Radiance Reference Manual_ (PDF)](http://radsite.lbl.gov/radiance/refer/refman.pdf)." 2011.
 
 
 {{< tdclose >}}
@@ -215,7 +215,7 @@ Daylight Availability
 
 Reinhart, C. F. "Simulation-based Daylight Performance Predictions." In _Building Performance Simulation for Design and Operation_. Edited by J. Hensen and R. Lamberts. Taylor & Francis, 2011, pp. 253–76. ISBN: 9780415474146.
 
-Reinhart, C. F., and D. Weissman. "{{% resource_link "16d7fb6a-340b-4767-b95b-4b6149162739" "The daylit area – Correlating architectural student assessments with current and emerging daylight availability metrics" %}}." _Building and Environment_ 50 (April 2012): 155–162.
+Reinhart, C. F., and D. Weissman. "[The daylit area – Correlating architectural student assessments with current and emerging daylight availability metrics](http://dx.doi.org/doi:10.1016/j.buildenv.2011.10.024)." _Building and Environment_ 50 (April 2012): 155–162.
 
 
 {{< tdclose >}}
@@ -231,9 +231,9 @@ Visual Comfort & Occupant Behavior
 {{< tdopen >}}
 
 
-Wienold, J., and J. Christoffersen. "{{% resource_link "03156718-78f2-4337-b512-700a8b4a3e3d" "Evaluation methods and development of a new glare prediction model for daylight environments with the use of CCD cameras" %}}." _Energy and Buildings_ 38, no. 7 (2006): 743–57.
+Wienold, J., and J. Christoffersen. "[Evaluation methods and development of a new glare prediction model for daylight environments with the use of CCD cameras](http://dx.doi.org/10.1016/j.enbuild.2006.03.017)." _Energy and Buildings_ 38, no. 7 (2006): 743–57.
 
-Reinhart, C. F., and J. Wienold. "{{% resource_link "84650564-0bcf-41f5-95e3-7407ea24226d" "Lightswitch-2002: a model for manual and automated control of electric lighting and blinds" %}}." _Solar Energy_ 77, no. 1 (2004): 15–28.
+Reinhart, C. F., and J. Wienold. "[Lightswitch-2002: a model for manual and automated control of electric lighting and blinds](http://dx.doi.org/10.1016/j.solener.2004.04.003)." _Solar Energy_ 77, no. 1 (2004): 15–28.
 
 
 {{< tdclose >}}
@@ -271,7 +271,7 @@ No required readings
 Integrating Electric Lighting & Energy
 {{< tdclose >}}
 {{< tdopen >}}
-Reinhart, C. F., and J. Wienold. "{{% resource_link "1719bbd3-dff5-42f1-95ff-155309a1004e" "The daylighting dashboard – A simulation-based design analysis for daylit spaces" %}}." _Building and Environment_ 46, no. 2 (2011): 386–96.
+Reinhart, C. F., and J. Wienold. "[The daylighting dashboard – A simulation-based design analysis for daylit spaces](http://dx.doi.org/10.1016/j.buildenv.2010.08.001)." _Building and Environment_ 46, no. 2 (2011): 386–96.
 {{< tdclose >}}
 
 {{< trclose >}}

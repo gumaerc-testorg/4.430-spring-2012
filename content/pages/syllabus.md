@@ -37,16 +37,16 @@ At the end of this course students will be able to:
 Prerequisites
 -------------
 
-An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004)), and a working knowledge of {{% resource_link "8a17ea16-5283-4ebe-9b9b-51379c2e2e8c" "Rhinoceros{{< sup \"®\" >}}" %}} are required for this course.
+An introductory course on building science (for example, [_4.461 Architectural Building Systems_](/courses/4-461-building-technology-i-materials-and-construction-fall-2004)), and a working knowledge of [Rhinoceros{{< sup "®" >}}](http://www.rhino3d.com/) are required for this course.
 
 Required Materials and Resources
 --------------------------------
 
-The simulation environment used throughout the course will be a Rhino{{< sup "®" >}} plug‐in for daylighting and energy simulations and analysis called {{% resource_link "0f7d10df-784e-4648-86db-3863d70decc0" "DIVA‐for‐Rhino" %}}, which runs on PCs. It is based on {{% resource_link "42463808-0a04-4bdb-a98c-d31c5cefa1e0" "Radiance" %}}, DAYSIM, and {{% resource_link "8c68c2be-f9e8-4dfb-8bfe-a40d43a73920" "EnergyPlus" %}}. Students will need a copy of Rhino{{< sup "®" >}} V4.0 SR8 or higher to use the plug‐in on their computers.
+The simulation environment used throughout the course will be a Rhino{{< sup "®" >}} plug‐in for daylighting and energy simulations and analysis called [DIVA‐for‐Rhino](http://diva4rhino.com/), which runs on PCs. It is based on [Radiance](http://www.radiance-online.org/), DAYSIM, and [EnergyPlus](https://energyplus.net/). Students will need a copy of Rhino{{< sup "®" >}} V4.0 SR8 or higher to use the plug‐in on their computers.
 
-DIVA-for-Rhino is available with a license through {{% resource_link "4d88cfe3-838f-4b88-bacc-fefd47cff8e7" "Solemma LLC" %}}. A {{% resource_link "f04b12b0-d8a7-418d-872c-83eb6dfe3a89" "user guide" %}} for DIVA-for-Rhino is a recommended resource for those who are just familiarizing themselves with the software.
+DIVA-for-Rhino is available with a license through [Solemma LLC](https://www.solemma.com/). A [user guide](http://www.pratt.digitalfutures.info/wp-content/uploads/2014/04/DIVA-User-Guide.pdf) for DIVA-for-Rhino is a recommended resource for those who are just familiarizing themselves with the software.
 
-More guides and tutorials for daylighting and energy modeling are available through {{% resource_link "2edcdd08-95a0-46b4-bfad-c588400e502b" "Sustainable Design Lab @ MIT" %}}.
+More guides and tutorials for daylighting and energy modeling are available through [Sustainable Design Lab @ MIT](http://mit.edu/SustainableDesignLab/teaching_resources.html).
 
 Students will need a digital camera to carry out high dynamic range photography for glare analysis.
 
