@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supportimg file contains information regarding radiance material
   generator.
-file: /ol-ocw-studio-app/courses/4-430-daylighting-spring-2012/f1d84105cd659cc8d73fa058925aeb63_hw2-mtrl_gnrtr.xlsx
+file: /courses/4-430-daylighting-spring-2012/f1d84105cd659cc8d73fa058925aeb63_hw2-mtrl_gnrtr.xlsx
 file_size: 142754
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
